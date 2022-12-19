@@ -1,0 +1,25 @@
+img {
+    max-width: 100%;
+    }
+    
+    main .box1{
+    width: 800px;
+    height: 250px;
+    background: #fff;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border: 4px solid black;
+    border-radius: 25px;
+    }
+    
+    h1 {
+    text-align: center;
+    font-size: 1.8em;
+    }
+    
+    p.text {
+    text-align: center;
+    font-size: 1.5em;
+    }
